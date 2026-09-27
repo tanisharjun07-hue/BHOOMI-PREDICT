@@ -1,0 +1,13 @@
+# Theme for the hosted deployment. The server block is left to the
+# hosting platform. Keeps Streamlit's own widgets (inputs, code chips,
+# sidebar) matching the light portal theme.
+[theme]
+base = "light"
+primaryColor = "#f28c28"
+backgroundColor = "#eef2f7"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#11243d"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,14 @@
+# Runtime state — never commit.
+# bhoomi_channels.json holds Twilio / Fast2SMS / Gmail credentials.
+bhoomi_users.json
+bhoomi_audit.json
+bhoomi_consent.json
+bhoomi_channels.json
+bhoomi_notice_log.json
+bhoomi_link.json
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
